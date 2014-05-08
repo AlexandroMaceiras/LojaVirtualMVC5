@@ -8,6 +8,6 @@ namespace Quiron.LojaVirtual.Dominio
 {
     class Class1
     {
-        private int a = 100;
+        private int a = 1000;
     }
 }
